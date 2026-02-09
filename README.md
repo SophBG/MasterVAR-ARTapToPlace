@@ -2,7 +2,7 @@
 
 > Project developed for the **Master in Virtual and Augmented Reality**.
 
-An intuitive AR experience where users tap to place 3D animated objects on detected surfaces (floors or walls). The focus was on creating a seamless **User Experience (UX)** without relying on text or audio instructions.
+An intuitive AR experience where users tap to place 3D animated objects on detected surfaces (floors). The focus was on creating a seamless **User Experience (UX)** without relying on text or audio instructions.
 
 ![AR Demo](demo.gif)
 
